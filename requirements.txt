@@ -1,0 +1,7 @@
+# Python packages for plot_histograms.py and make_object_mask.py
+# The C++ program itself needs OpenCV, installed separately (see README.md and LIBRARIES.md)
+pandas
+matplotlib
+numpy
+pillow
+scipy
